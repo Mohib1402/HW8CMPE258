@@ -1,5 +1,3 @@
-Here's a detailed and organized `README.md` for your **Assignment 8 - Computer Vision** project. You can copy this into your GitHub repository to showcase the work clearly:
-
 ---
 
 # 📸 Assignment 8: Computer Vision — Contrastive Learning, Transfer Learning, and SOTA Architectures
@@ -99,5 +97,3 @@ This assignment is divided into **four major parts**, focusing on building deep 
 - [X-ray & CT Scan Medical Imaging](https://keras.io/examples/vision/xray_classification_with_tpus), [3D Classification](https://keras.io/examples/vision/3D_image_classification)
 
 ---
-
-Let me know if you’d like a matching `index.html` or export as PDF for Canvas submission. Would you like me to fill in the Colab links with placeholder templates too?
