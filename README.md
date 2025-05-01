@@ -1,12 +1,5 @@
 ---
 
-# 📸 Assignment 8: Computer Vision — Contrastive Learning, Transfer Learning, and SOTA Architectures
-
-> **Due Date**: April 30, 11:59 PM  
-> **Submission**: GitHub Repository + Website URL (Link to README + Colab Notebooks)
-
----
-
 ## 🧠 Overview
 
 This assignment is divided into **four major parts**, focusing on building deep computer vision models with supervised contrastive learning, various transfer learning techniques (images, video, audio, NLP), zero-shot learning using CLIP, and SOTA image models on standard datasets including MNIST, Fashion-MNIST, CIFAR-10, and X-Ray/3D medical scans.
